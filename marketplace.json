@@ -1,0 +1,94 @@
+{
+  "name": "anvil-and-code",
+  "description": "Production-grade Claude skills for builders. Engineered for reliability, not demos.",
+  "owner": {
+    "name": "Anvil & Code",
+    "url": "https://github.com/anvilandcode"
+  },
+  "plugins": [
+    {
+      "name": "skill-validator",
+      "description": "Audit any SKILL.md. Get a scored report (0-10) with critical issues, warnings, triggering score, and exact fixes. Free forever.",
+      "source": "https://github.com/anvilandcode/skill-validator",
+      "tags": ["free", "validation", "quality", "skill-engineering"],
+      "price": "free"
+    },
+    {
+      "name": "description-optimizer",
+      "description": "Rewrite your SKILL.md description to actually trigger. Scores current version, generates 3 optimized variants, picks a winner. Free forever.",
+      "source": "https://github.com/anvilandcode/description-optimizer",
+      "tags": ["free", "optimization", "triggering", "skill-engineering"],
+      "price": "free"
+    },
+    {
+      "name": "skill-scaffolder",
+      "description": "Generate a complete production-ready SKILL.md from a plain English description. Intake interview, architecture decision, quality gate, test scaffold included.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "scaffolding", "generation", "skill-engineering"],
+      "price": "$12"
+    },
+    {
+      "name": "skill-security-auditor",
+      "description": "Scan any SKILL.md for path traversal, code injection, unsafe shell calls, and prompt injection vectors. Security report with severity ratings and fixes.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "security", "audit", "skill-engineering"],
+      "price": "$15"
+    },
+    {
+      "name": "skill-tester",
+      "description": "Generate comprehensive test cases, edge cases, and validation scenarios for any SKILL.md. Catches failures before your users do.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "testing", "validation", "skill-engineering"],
+      "price": "$12"
+    },
+    {
+      "name": "multi-platform-converter",
+      "description": "Adapt any SKILL.md for Codex CLI, Cursor, Gemini CLI, and other AI coding environments. One skill, four ecosystems.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "conversion", "cross-platform", "skill-engineering"],
+      "price": "$15"
+    },
+    {
+      "name": "skill-bundler",
+      "description": "Package multiple skills into a GitHub marketplace-ready repo with proper manifest, README, and install instructions.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "bundling", "distribution", "skill-engineering"],
+      "price": "$12"
+    },
+    {
+      "name": "skill-doc-generator",
+      "description": "Generate buyer-ready documentation for any skill: README, install instructions, usage examples, and troubleshooting guide.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "documentation", "readme", "skill-engineering"],
+      "price": "$9"
+    },
+    {
+      "name": "prompt-compressor",
+      "description": "Optimize token efficiency in any SKILL.md. Cuts file size without losing instruction fidelity. Faster loading, lower context cost.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "optimization", "tokens", "skill-engineering"],
+      "price": "$9"
+    },
+    {
+      "name": "progressive-disclosure-organizer",
+      "description": "Restructure any SKILL.md for lazy loading. Main file stays under 5K tokens, supporting files load on demand. Required for large skills.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "architecture", "performance", "skill-engineering"],
+      "price": "$12"
+    },
+    {
+      "name": "skill-marketplace-formatter",
+      "description": "Prepare skill listings for SkillsMP, claudemarketplaces.com, claudeskills.info, and SkillHub. Each platform has different format requirements — this handles all of them.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "distribution", "marketplace", "skill-engineering"],
+      "price": "$9"
+    },
+    {
+      "name": "license-key-injector",
+      "description": "Add Gumroad license key validation and buyer watermarking to any SKILL.md. The anti-piracy stack for skill sellers, reusable on every skill you ship.",
+      "source": "https://gumroad.com/anvilandcode",
+      "tags": ["paid", "licensing", "anti-piracy", "skill-engineering"],
+      "price": "$12"
+    }
+  ]
+}
