@@ -6,7 +6,7 @@
 | Product | Price | Link |
 |---------|-------|------|
 | Skill Validator | Free | https://anvilandcode.gumroad.com/l/txfmej |
-| Description Optimizer | Free | https://anvilandcode.gumroad.com/l/kzyggkh |
+| Description Optimizer | Free | https://anvilandcode.gumroad.com/l/kzygqkh |
 | Skill Scaffolder | $12 | https://anvilandcode.gumroad.com/l/gyzhaz |
 | Skill Security Auditor | $15 | https://anvilandcode.gumroad.com/l/rhafga |
 | Skill Tester | $12 | https://anvilandcode.gumroad.com/l/hvsuz |
