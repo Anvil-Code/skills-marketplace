@@ -6,7 +6,7 @@
 | Product | Price | Link |
 |---------|-------|------|
 | Skill Validator | Free | https://anvilandcode.gumroad.com/l/txfmej |
-| Description Optimizer | Free | https://anvilandcode.gumroad.com/l/kzygqkh |
+| Description Optimizer | Free | https://anvilandcode.gumroad.com/l/kzyggkh |
 | Skill Scaffolder | $12 | https://anvilandcode.gumroad.com/l/gyzhaz |
 | Skill Security Auditor | $15 | https://anvilandcode.gumroad.com/l/rhafga |
 | Skill Tester | $12 | https://anvilandcode.gumroad.com/l/hvsuz |
@@ -71,7 +71,7 @@ The complete toolkit for building, auditing, securing, and shipping production-g
 | `skill-marketplace-formatter` | Format listings for SkillsMP, claudemarketplaces, SkillHub | $9 |
 | `license-key-injector` | Add license validation and buyer watermarking | $12 |
 
-**[Get the Engineer's Edition (all 12) → gumroad.com/anvilandcode](https://gumroad.com/anvilandcode)**
+**[Get the Engineer's Edition (all 12) → anvilandcode.gumroad.com](https://anvilandcode.gumroad.com/l/vxvgtc)**
 
 Individual skills also available separately.
 
