@@ -1,5 +1,18 @@
 # Anvil & Code — Skills Marketplace
 
+---
+## ⚒ Buy Now
+
+| Product | Price | Link |
+|---------|-------|------|
+| Skill Validator | Free | https://anvilandcode.gumroad.com/l/txfmej |
+| Description Optimizer | Free | https://anvilandcode.gumroad.com/l/kzyggkh |
+| Skill Scaffolder | $12 | https://anvilandcode.gumroad.com/l/gyzhaz |
+| Starter Pack (4 skills) | $29 | https://anvilandcode.gumroad.com/l/xmixxz |
+| Engineer's Edition (all 12) | $99 | https://anvilandcode.gumroad.com/l/vxvgtc |
+
+---
+
 > Production-grade Claude skills for builders. Engineered for reliability, not demos.
 
 ## Install the Marketplace
