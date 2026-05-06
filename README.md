@@ -6,10 +6,19 @@
 | Product | Price | Link |
 |---------|-------|------|
 | Skill Validator | Free | https://anvilandcode.gumroad.com/l/txfmej |
-| Description Optimizer | Free | https://anvilandcode.gumroad.com/l/kzyggkh |
+| Description Optimizer | Free | https://anvilandcode.gumroad.com/l/kzygqkh |
 | Skill Scaffolder | $12 | https://anvilandcode.gumroad.com/l/gyzhaz |
-| Starter Pack (4 skills) | $29 | https://anvilandcode.gumroad.com/l/xmixxz |
-| Engineer's Edition (all 12) | $99 | https://anvilandcode.gumroad.com/l/vxvgtc |
+| Skill Security Auditor | $15 | https://anvilandcode.gumroad.com/l/rhafga |
+| Skill Tester | $12 | https://anvilandcode.gumroad.com/l/hvsuz |
+| Multi-Platform Converter | $15 | https://anvilandcode.gumroad.com/l/jxdvbv |
+| Skill Bundler | $12 | https://anvilandcode.gumroad.com/l/tjmmet |
+| Skill Doc Generator | $9 | https://anvilandcode.gumroad.com/l/quolhb |
+| Prompt Compressor | $9 | https://anvilandcode.gumroad.com/l/xzovzy |
+| Progressive Disclosure Organizer | $12 | https://anvilandcode.gumroad.com/l/atsatu |
+| Skill Marketplace Formatter | $9 | https://anvilandcode.gumroad.com/l/xrxecda |
+| License Key Injector | $12 | https://anvilandcode.gumroad.com/l/eicwb |
+| Starter Pack | $29 | https://anvilandcode.gumroad.com/l/xmixxz |
+| Engineer's Edition | $99 | https://anvilandcode.gumroad.com/l/vxvgtc |
 
 ---
 
