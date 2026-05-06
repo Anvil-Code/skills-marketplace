@@ -29,7 +29,7 @@
 Add the entire Anvil & Code catalog to Claude Code with one command:
 
 ```bash
-/plugin marketplace add https://github.com/anvilandcode/skills-marketplace
+/plugin marketplace add https://github.com/Anvil-Code/skills-marketplace
 ```
 
 Then install any skill:
@@ -47,8 +47,8 @@ These two skills are permanently free. No account required.
 
 | Skill | What it does |
 |-------|-------------|
-| [`skill-validator`](https://github.com/anvilandcode/skill-validator) | Audits any SKILL.md. Scored report (0–10) with critical issues, triggering score, and exact fixes. |
-| [`description-optimizer`](https://github.com/anvilandcode/description-optimizer) | Rewrites your description field to actually trigger. 3 variants, scored, with a clear recommendation. |
+| [`skill-validator`](https://github.com/Anvil-Code/skill-validator) | Audits any SKILL.md. Scored report (0–10) with critical issues, triggering score, and exact fixes. |
+| [`description-optimizer`](https://github.com/Anvil-Code/description-optimizer) | Rewrites your description field to actually trigger. 3 variants, scored, with a clear recommendation. |
 
 ---
 
